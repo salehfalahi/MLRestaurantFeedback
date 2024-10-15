@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MLRestaurantFeedback": {
+      "commandName": "Project",
+      "commandLineArgs": "train \"C:\\Users\\saleh_fz\\source\\repos\\MLRestaurantFeedback\\MLRestaurantFeedback\\Data\\sampledata.csv\"\r\n"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "commandLineArgs": "predict \"پیام\""
+    }
+  }
+}
